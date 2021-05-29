@@ -6,7 +6,7 @@ A prototype created using the OpenZepplin `ERC20` interface and base `Contract`.
 
 ### Example
 
-```sol
+```solidity
 // SPDX-License-Identifier: ABRMS
 pragma solidity ^0.8.0;
 
